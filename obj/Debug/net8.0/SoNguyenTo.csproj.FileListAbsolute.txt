@@ -1,0 +1,14 @@
+D:\Project_PRN221\SoNguyenTo\bin\Debug\net8.0\SoNguyenTo.exe
+D:\Project_PRN221\SoNguyenTo\bin\Debug\net8.0\SoNguyenTo.deps.json
+D:\Project_PRN221\SoNguyenTo\bin\Debug\net8.0\SoNguyenTo.runtimeconfig.json
+D:\Project_PRN221\SoNguyenTo\bin\Debug\net8.0\SoNguyenTo.dll
+D:\Project_PRN221\SoNguyenTo\bin\Debug\net8.0\SoNguyenTo.pdb
+D:\Project_PRN221\SoNguyenTo\obj\Debug\net8.0\SoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_PRN221\SoNguyenTo\obj\Debug\net8.0\SoNguyenTo.AssemblyInfoInputs.cache
+D:\Project_PRN221\SoNguyenTo\obj\Debug\net8.0\SoNguyenTo.AssemblyInfo.cs
+D:\Project_PRN221\SoNguyenTo\obj\Debug\net8.0\SoNguyenTo.csproj.CoreCompileInputs.cache
+D:\Project_PRN221\SoNguyenTo\obj\Debug\net8.0\SoNguyenTo.dll
+D:\Project_PRN221\SoNguyenTo\obj\Debug\net8.0\refint\SoNguyenTo.dll
+D:\Project_PRN221\SoNguyenTo\obj\Debug\net8.0\SoNguyenTo.pdb
+D:\Project_PRN221\SoNguyenTo\obj\Debug\net8.0\SoNguyenTo.genruntimeconfig.cache
+D:\Project_PRN221\SoNguyenTo\obj\Debug\net8.0\ref\SoNguyenTo.dll
